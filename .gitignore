@@ -1,0 +1,6 @@
+wordpress/*
+!wordpress/.keep
+mysql/*
+!mysql/.keep
+logs/nginx/*
+!logs/nginx/.keep
